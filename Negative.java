@@ -18,7 +18,7 @@ public class Negative {
                 }
             }
 
-            System.out.print(max + " ");
+            System.out.print(max + " "); 
         }
 
    } 
