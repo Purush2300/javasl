@@ -17,7 +17,7 @@ public class New {
                  left++;
             }
             
-              len=Math.max(len, right-left+1);
+              len=Math.max(len, right-left);
         }
         System.out.println(len-1);
     }
