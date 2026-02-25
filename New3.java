@@ -2,7 +2,7 @@ import java.util.HashMap;
 public class New3 {
     public static void main(String[] args) {
         HashMap<Integer,Integer> map=new HashMap<>();
-        int[]a={1,2,1,2,3};
+        int[]a={1,2,1,1,2,3};
         int k=2;
         int count=0;
         int l=0;
@@ -17,7 +17,7 @@ public class New3 {
             }
             l++;
             }
-         count+=r-l+1;
+         count+=(r-l+1);
             
         }
         System.out.println(count);
