@@ -2,7 +2,7 @@ import java.util.HashMap;
 public class New2 {
     public static void main(String[] args) {
         HashMap<Integer,Integer>map=new HashMap<>();
-        int []a={1, 5, 4, 2, 9, 9, 9};
+        int []a={2,1,1,1,3,4,3,2};
         int k=3;
         int sum=0;
         int l=0;
