@@ -1,6 +1,6 @@
 public class Product {
     public static void main(String[] args) {
-        int[] nums={10,5,2};
+        int[] nums={10,5};
         int mul=1;
         int count=0;
         int left=0;
